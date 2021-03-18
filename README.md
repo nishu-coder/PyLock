@@ -9,6 +9,6 @@
 
 	[+] pip install -y requirments.txt
 
-	[+] python3 pylock.py
+	[+] python3 coder.py
 
 # [+] Hurrah !! Enjoy the game ! [+]
