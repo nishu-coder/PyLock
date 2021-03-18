@@ -7,7 +7,7 @@
 
 	[+] cd pylock
 
-	[+] pip install -y requirments.txt
+	[+] pip install -r requirments.txt
 
 	[+] python3 coder.py
 
