@@ -3,7 +3,7 @@
 	Tertris : Block shifting game
 	To start the game.
 
-[+]Download the file.
+# [+]Download the file.
 
 	[+] cd pylock
 
@@ -11,4 +11,4 @@
 
 	[+] python3 pylock.py
 
-[+] Hurrah !! Enjoy the game ! [+]
+# [+] Hurrah !! Enjoy the game ! [+]
